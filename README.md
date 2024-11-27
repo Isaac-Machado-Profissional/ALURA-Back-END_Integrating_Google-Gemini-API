@@ -29,7 +29,7 @@ Access a one terminal and run `npm run dev`, the terminal must answer:
 > dev
 > npx parcel --port 8000 index.html
 
-Server running at http://localhost:800
+Server running at http://localhost:8000
 ✨ Built in xxxms
 
 ```
