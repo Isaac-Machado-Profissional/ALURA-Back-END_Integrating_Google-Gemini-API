@@ -3,7 +3,7 @@
 
 ## About this project:
 
-This its a project on a Course with 5 days of duration with focus on the Back-END, so in this intensive days, i create a project with [Alura](https://www.alura.com.br/imersao-dev-back-end-google-gemini) in Google partnership with in that i upload in the [Google-Cloud](https://cloud.google.com/?hl=en) one [API](https://back-end-integrating-google-gemini-api-579598324950.southamerica-east1.run.app/posts) with my results just for example, and will be upgrate.
+This its a project on a Course with 5 days of duration focusing on the Back-END, so in this intensive days, i create a project with [Alura](https://www.alura.com.br/imersao-dev-back-end-google-gemini) in Google partnership with in that i upload in the [Google-Cloud](https://cloud.google.com/?hl=en) one [API](https://back-end-integrating-google-gemini-api-579598324950.southamerica-east1.run.app/posts) with my results just for example, and will be upgrate.
 
 So if you want to test or view this project, consider this:
 
