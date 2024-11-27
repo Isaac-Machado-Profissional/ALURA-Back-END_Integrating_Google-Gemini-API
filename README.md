@@ -30,5 +30,4 @@ Server running at http://localhost:800
 
 ```
 
-After that, this project will be avaiable on http://localhost:8000 and you can run it in  
-the browser of your preference.
+After that, this project will be avaiable on http://localhost:8000 and you can run it in the browser of your preference.
