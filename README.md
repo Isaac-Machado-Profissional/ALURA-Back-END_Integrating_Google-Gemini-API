@@ -1,5 +1,5 @@
 # Alura - Intensive Front-END
-> Make sure you have cloned the files on the Back-END(Main Branch) as well.
+> Make sure you have cloned the files on the Back-END(Main Branch) as well.  
 > This Front-END Branch its just a Front-END to integrate with my Back-END and make all more visible.
 
 So if you want to test or view this all project, consider this:
